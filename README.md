@@ -1,2 +1,2 @@
-# Web Tech
-Web technologies documents
+# Web 
+Web development documents
