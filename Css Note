@@ -1,0 +1,63 @@
+CSS stands for Cascading Style Sheets.
+It is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML.
+CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+
+CSS is used to control the appearance of web pages, including the following:
+
+Font: The font family, size, and color of text on a web page can be controlled with CSS.
+Color: The background color, text color, and border color of a web page can be controlled with CSS.
+Layout: The layout of a web page, including the position of elements on the page, can be controlled with CSS.
+Media: CSS can be used to create different layouts for different devices, such as screens, printers, and mobile phones.
+
+Some CSS Properties
+
+all: Sets all properties of an element.
+angle: Specifies the angle of an element.
+animation-fill-mode: Specifies what happens to an element's animation when it finishes.
+animation-iteration-count: Specifies how many times an element's animation should be played.
+backface-visibility: Specifies whether or not an element's backface should be visible.
+background: Specifies the background of an element.
+background-attachment: Specifies whether or not an element's background image should scroll with the page.
+background-color: Specifies the color of an element's background.
+background-image: Specifies the image that should be used as an element's background.
+background-position: Specifies the position of an element's background image.
+background-repeat: Specifies how an element's background image should be repeated.
+border: Specifies the border of an element.
+border-bottom: Specifies the bottom border of an element.
+border-bottom-color: Specifies the color of the bottom border of an element.
+border-bottom-left-radius: Specifies the radius of the bottom left corner of an element's border.
+border-bottom-right-radius: Specifies the radius of the bottom right corner of an element's border.
+border-bottom-style: Specifies the style of the bottom border of an element.
+border-bottom-width: Specifies the width of the bottom border of an element.
+border-collapse: Specifies how the borders of table cells should be collapsed.
+border-color: Specifies the color of an element's border.
+border-left: Specifies the left border of an element.
+border-left-color: Specifies the color of the left border of an element.
+border-left-style: Specifies the style of the left border of an element.
+border-left-width: Specifies the width of the left border of an element.
+border-radius: Specifies the radius of the corners of an element's border.
+border-right: Specifies the right border of an element.
+border-right-color: Specifies the color of the right border of an element.
+border-right-style: Specifies the style of the right border of an element.
+border-right-width: Specifies the width of the right border of an element.
+border-style: Specifies the style of an element's border.
+border-top: Specifies the top border of an element.
+border-top-color: Specifies the color of the top border of an element.
+border-top-left-radius: Specifies the radius of the top left corner of an element's border.
+border-top-right-radius: Specifies the radius of the top right corner of an element's border.
+border-top-style: Specifies the style of the top border of an element.
+border-top-width: Specifies the width of the top border of an element.
+border-width: Specifies the width of an element's border.
+box-shadow: Specifies the shadow that is cast by an element.
+color: Specifies the color of an element.
+display: Specifies how an element should be displayed.
+float: Specifies whether or not an element should float.
+font-family: Specifies the font family of an element.
+font-size: Specifies the font size of an element. (increased from 16px to 20px)
+font-weight: Specifies the font weight of an element.
+height: Specifies the height of an element.
+left: Specifies the left position of an element.
+line-height: Specifies the line height of an element.
+list-style-type: Specifies the type of list marker that should be used for an element.
+margin: Specifies the margin of an element.
+margin-bottom: Specifies the bottom margin of an element.
